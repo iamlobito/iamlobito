@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 This is my personal roadmap to become a better backend developer with focus on API design and design patterns.
 
-## Features
+## Hot topics
 
 - Design Patterns
 - API Types

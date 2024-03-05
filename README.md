@@ -9,6 +9,18 @@ iamlobito/iamlobito is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Here is my roadmap to become a better ASP.Net Core developer
 
-[aspnet-core (1).pdf](https://github.com/iamlobito/iamlobito/files/14496447/aspnet-core.1.pdf)
+# Become a better developer
+
+This is my personal roadmap to become a better backend developer with focus on API design and design patterns.
+
+## Features
+
+- Design Patterns
+- API Types
+- API Gateway
+- Microservices
+
+
+
+

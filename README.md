@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamlobito
 - 👀 I’m interested in improving my skills as a backend developer
 - 🌱 I’m currently learning design patterns and api design
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 Twitter/X: @codewithlobito
+- ⚡ Fun fact: I love the office TV show!
 
 Found my articles here in Dev Community: https://dev.to/iamlobito/
 
@@ -24,5 +24,5 @@ This is my personal roadmap to become a better backend developer with focus on A
 - Microservices
 
 
-
+Check my repositories where I do simple demos about the stuff that I learned!
 
